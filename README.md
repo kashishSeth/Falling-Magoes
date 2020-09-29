@@ -1,1 +1,2 @@
-# Falling-Magoes
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
